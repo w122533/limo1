@@ -1,0 +1,2 @@
+limo_ros/limo_base:limo_ros/limo_bringup:limo_ros/limo_description:limo_ros/limo_gazebo_sim
+-DCATKIN_DEVEL_PREFIX=/home/abc/桌面/limo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/abc/桌面/limo_ws/install -G Unix Makefiles
